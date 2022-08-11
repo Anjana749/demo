@@ -1,6 +1,6 @@
 /*this is a binary search program .it will work when the array is already sorted in ascending order .this program will give the index of the target element
  and if the target element is not present in the array then it will return -1
- */
+ .........*/
 public class binarySearch {
 
 	public static void main(String[] args) {
